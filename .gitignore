@@ -9,6 +9,7 @@ package-lock.json
 
 # production
 /build
+/ReactElectron-win32-x64
 
 # misc
 .DS_Store
